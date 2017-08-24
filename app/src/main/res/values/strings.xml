@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interactividad</string>
+    <string name="str_btn_1">Activity2</string>
+    <string name="str_btn_2">Activity1</string>
+    <string name="str_1">Opcion_Uno</string>
+    <string name="str_2">Opcion_2</string>
+</resources>
